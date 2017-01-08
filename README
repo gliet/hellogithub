@@ -1,3 +1,13 @@
 hello,this is my fisrt git repository.
 it just for test howevery
 
+how to set user's name and email
+git config --global user.name "your name"  
+git config --global user.email "your_email@youremail.com" 
+
+how to creat remote git  repo
+git remote add origin git@github.com:yourname/yourrepo.git
+
+how to commit and push
+git commit -m"first commit"
+git push origin master
