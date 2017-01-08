@@ -1,6 +1,10 @@
 hello,this is my fisrt git repository.
 it just for test howevery
 
+$ git push
+Username for 'https://github.com': gliet
+Password for 'https://zjihui@126.com@github.com': fxxxxxxxx6
+
 how to set user's name and email
 git config --global user.name "your name"  
 git config --global user.email "your_email@youremail.com" 
